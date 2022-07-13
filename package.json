@@ -1,10 +1,10 @@
 {
-  "name": "file-share",
+  "name": "compartelo",
   "version": "1.0.0",
   "description": "share files easily!",
   "main": "index.js",
-  "author": "Ashutosh Malviya",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
